@@ -10,9 +10,9 @@
 
 ### USafe Demo:
 
-<video width="640" height="360" controls>
-  <source src="C:\Users\rifal\Desktop\USafe\Usafe.mp4" type="video/mp4">
-</video>
+
+https://github.com/RefalAlboqami/USafe/assets/148760136/6c70d72b-7c1a-4e85-817e-d601ed124de5
+
 
 ### Main Objective:
 
